@@ -24,7 +24,6 @@ library(xtable)
 library(gridExtra)
 
 
-
 ###################################################
 ### 1. Correlations between Lamellae Properties ###
 ###################################################

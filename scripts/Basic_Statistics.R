@@ -15,7 +15,6 @@ library(dplyr)
 library(car)
 
 
-
 ###########################################################
 ### 1. Normal Distribution and Homogeneity in Variances ###
 ###########################################################

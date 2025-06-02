@@ -27,7 +27,6 @@ library(gridExtra)
 library(stringr)
 
 
-
 #############################################################
 ### 1.Linear Regression - Knot Size ~ Strength Properties ###
 #############################################################
